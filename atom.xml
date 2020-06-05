@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Time-machine</title>
+  
+  <subtitle>To record time</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-05T07:41:37.883Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Xxxxxzh1</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2020/about/"/>
+    <id>http://yoursite.com/2020/about/</id>
+    <published>2020-06-02T13:35:26.000Z</published>
+    <updated>2020-06-05T07:41:37.883Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;姓名：郑智&lt;br&gt;现居：杭州&lt;br&gt;GitHub：&lt;a href=&quot;https://github.com/Xxxxxzh1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Xxxxxzh1&lt;/a&gt;&lt;br&gt;微信：Zz-1358&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
