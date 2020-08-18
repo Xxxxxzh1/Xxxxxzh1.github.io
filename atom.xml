@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-01T02:53:41.890Z</updated>
+  <updated>2020-08-18T12:23:49.782Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>About 00</title>
+    <link href="http://yoursite.com/2020/about00/"/>
+    <id>http://yoursite.com/2020/about00/</id>
+    <published>2020-08-08T09:05:59.000Z</published>
+    <updated>2020-08-18T12:23:49.782Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Guys-see-you&quot;&gt;&lt;a href=&quot;#Guys-see-you&quot; class=&quot;headerlink&quot; title=&quot;Guys, see you!&quot;&gt;&lt;/a&gt;Guys, see you!&lt;/h1&gt;&lt;p&gt;不知不觉，我在零零已经度过了一年多的时间，始于巧合的机会，也收获了意外的力量与惊喜，现在到了该说再见的时候。我曾经是个轻微直楞的家伙，但好在大家悉心的开导、善意的提醒，让我学会了怎样把控心态，这也是我在零零最大的收获。洗墨、惜惺、相知曾是我的交友准则，却在这里拥有了志同道合的别样感动。感恩！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="零零" scheme="http://yoursite.com/tags/%E9%9B%B6%E9%9B%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>About Me</title>
     <link href="http://yoursite.com/2020/aboutMe/"/>
     <id>http://yoursite.com/2020/aboutMe/</id>
     <published>2020-06-02T13:35:26.000Z</published>
-    <updated>2020-07-01T02:53:41.890Z</updated>
+    <updated>2020-08-18T11:54:46.938Z</updated>
     
     <summary type="html">
     
