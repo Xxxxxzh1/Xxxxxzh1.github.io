@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>About Me</title>
+    <url>/2020/aboutMe/</url>
+    <content><![CDATA[<p><big>姓名：郑智</big><br><big>现居：杭州</big><br><big>GitHub：<a href="https://github.com/Xxxxxzh1" target="_blank" rel="noopener">Xxxxxzh1</a></big><br><big>微信：Xxxxxzh1-</big></p>
+<a id="more"></a>
+<img src="https://s1.ax1x.com/2020/07/01/NoORPA.jpg" width="50%">]]></content>
+  </entry>
+  <entry>
     <title>About 00</title>
     <url>/2020/about00/</url>
     <content><![CDATA[<h1 id="Guys-see-you"><a href="#Guys-see-you" class="headerlink" title="Guys, see you!"></a>Guys, see you!</h1><p>不知不觉，我在零零已经度过了一年多的时间，始于巧合的机会，也收获了意外的力量与惊喜，现在到了该说再见的时候。我曾经是个轻微直楞的家伙，但好在大家悉心的开导、善意的提醒，让我学会了怎样把控心态，这也是我在零零最大的收获。洗墨、惜惺、相知曾是我的交友准则，却在这里拥有了志同道合的别样感动。感恩！</p>
@@ -18,13 +25,6 @@
       <tags>
         <tag>零零</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>About Me</title>
-    <url>/2020/aboutMe/</url>
-    <content><![CDATA[<p><big>姓名：郑智</big><br><big>现居：杭州</big><br><big>GitHub：<a href="https://github.com/Xxxxxzh1" target="_blank" rel="noopener">Xxxxxzh1</a></big><br><big>微信：Xxxxxzh1-</big></p>
-<a id="more"></a>
-<img src="https://s1.ax1x.com/2020/07/01/NoORPA.jpg" width="50%">]]></content>
   </entry>
   <entry>
     <title>面试积累</title>
