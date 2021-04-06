@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-18T12:51:43.555Z</updated>
+  <updated>2021-04-06T12:24:44.003Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>XCTrace实现iOS启动时间自动化</title>
+    <link href="http://yoursite.com/2021/XCTrace%E5%AE%9E%E7%8E%B0iOS%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    <id>http://yoursite.com/2021/XCTrace%E5%AE%9E%E7%8E%B0iOS%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E8%87%AA%E5%8A%A8%E5%8C%96/</id>
+    <published>2021-04-06T12:17:47.000Z</published>
+    <updated>2021-04-06T12:24:44.003Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;有关启动时间&quot;&gt;&lt;a href=&quot;#有关启动时间&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>About 00</title>
